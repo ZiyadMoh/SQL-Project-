@@ -1,6 +1,6 @@
-# SQL101-Project-
+# SQL-Project-
 \
-
+SQL101 part 
 Project
 
 Using what you learned during this course,
