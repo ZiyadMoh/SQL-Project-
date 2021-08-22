@@ -1,6 +1,6 @@
 # SQL-Project-
 \
-SQL101 part 
+Part 1 Course SQL101
 Project
 
 Using what you learned during this course,
@@ -36,7 +36,7 @@ Notes:
 
 ===============================================================================================================================================================================
 
-Part  2  SQL102
+Part  2 Course SQL102
 
 project
 
@@ -57,3 +57,8 @@ Requirements:
     Show the arithmetic mean of the GPA and round the number to the nearest number (using numeric functions).
     Switch all rows from the students table containing gender F to Female, and M to Male (using string functions).
     Update the GPA of students whose GPA is less than 60 and increase their GPA by five points.
+
+
+===============================================================================================================================================================================
+
+Part 3 Course SQL103
