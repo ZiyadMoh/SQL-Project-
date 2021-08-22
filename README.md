@@ -62,3 +62,23 @@ Requirements:
 ===============================================================================================================================================================================
 
 Part 3 Course SQL103
+
+Project 3
+
+Apply what you have learned through this course so that this project is complementary to the SQL project level 2.
+
+Requirements:
+
+    Create a relationship between the teachers and students table (so that the teacher teaches more than one student, and the student teaches more than one teacher)
+    Create a relationship between the subject schedule and teachers (so that the teacher teaches only one subject, and the subject is taught by more than one teacher).
+    Create a relationship between the table of subjects and the students (so that the student studies the most subject, and the subject is studied by more than one student).
+    Create a procedure called student_info that displays the names of students and subjects and contains all the data shared between the subjects table and students
+        Summon it.
+    Create a view with teacher_info containing the teacher's name, office number and the name of the subject being taught.
+        View view.
+        Delete view.
+    Create an index to search using student names alphabetically.
+        View index.
+        Delete index.
+
+    Note: The many to many relationship results in a new table.
